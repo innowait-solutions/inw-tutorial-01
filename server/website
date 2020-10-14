@@ -1,0 +1,6 @@
+server {
+
+    server_name %IP OR DOMAIN%
+    root %PATH%;
+
+}
