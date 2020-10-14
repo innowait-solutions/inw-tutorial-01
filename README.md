@@ -16,6 +16,7 @@ Let's create a website!
   * `%YOUTUBE_URL%` - URL to your YouTube Profile
   * `%INSTAGRAM_URL%` - URL to your Instagram Profile
 * Current main color is #700000 in `main.css`, again you can just "Find & Replace" with the color which matches your brand!
+* To change countdown - just go to `template/js/main.js` on line 60 you will see the date, change it to whatever you want (in the same format) and countdown will pick the change!
 
 ###Server Configuration
 * Install nginx on your server using command (for Ubuntu):
