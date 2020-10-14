@@ -1,11 +1,11 @@
-#Innowait Solutions Tutorial 01
-##A-Z Coming Soon Website
+# Innowait Solutions Tutorial 01
+## A-Z Coming Soon Website
 
 Welcome to Innowait Solutions support docs for our tutorials.
 
 Let's create a website!
 
-###Template
+### Template
 * Template for the Coming Soon Website can be found in `template/` folder!
 * You can amend images in `template/images` folder including backgrounds and logo!
 * Placeholders in index.html which you can just "Find & Replace":
@@ -17,7 +17,7 @@ Let's create a website!
   * `%INSTAGRAM_URL%` - URL to your Instagram Profile
 * Current main color is #700000 in `main.css`, again you can just "Find & Replace" with the color which matches your brand!
 
-###Server Configuration
+### Server Configuration
 * Install nginx on your server using command (for Ubuntu):
 ```sudo apt-get install nginx```
 
